@@ -9,10 +9,10 @@ return `*_RULES BOT_*
 Sanksi: *GUA BLOK AJG*
 
 2. Jangan telepon bot.
-Sanksi: *GUA BLOK TAPI KLO CEWE GPP*
+Sanksi: *GUA BLOK TAPI KLO CEWE GPP:v*
 
 3. Jangan memnghina/menghujat bot.
-Sanksi: *GUA BLOK NOMER LU + WAR SANTED*
+Sanksi: *GUA BLOK NOMER LU + GUA ENTOD LU🗿*
 
 _BOT NYOLONG SC ORG/AUTO RES/WIBU AE BANGGA JANGAN SOK PRO DEK !_
 
